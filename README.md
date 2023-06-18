@@ -1,7 +1,7 @@
 🔰GESTOR-SSH🔰
 
 🔹️PAINELWEB AlanSSH Free!
-      feat: @scottssh
+      feat: @balieiro1
 
 
 ⬇️ Instalador
